@@ -1,0 +1,14 @@
+/* .video-container{
+    border: 10px;
+    border-radius: 7px;
+    border-color: #0ef;
+} */
+.video-property{
+    aspect-ratio: 16/9;
+    width: 100%;
+    height: auto;
+    object-fit: fill;
+    border-width: 2px 4px 2px 4px;
+    border-style: solid;
+    border-color: #0ef;
+}
